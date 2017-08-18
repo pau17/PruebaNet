@@ -1,0 +1,11 @@
+c:\users\paul\documents\visual studio 2017\Projects\UnitTestProject\UnitTestProject\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\paul\documents\visual studio 2017\Projects\UnitTestProject\UnitTestProject\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\paul\documents\visual studio 2017\Projects\UnitTestProject\UnitTestProject\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\paul\documents\visual studio 2017\Projects\UnitTestProject\UnitTestProject\bin\Debug\netcoreapp1.1\UnitTestProject.deps.json
+c:\users\paul\documents\visual studio 2017\Projects\UnitTestProject\UnitTestProject\bin\Debug\netcoreapp1.1\UnitTestProject.runtimeconfig.json
+c:\users\paul\documents\visual studio 2017\Projects\UnitTestProject\UnitTestProject\bin\Debug\netcoreapp1.1\UnitTestProject.runtimeconfig.dev.json
+c:\users\paul\documents\visual studio 2017\Projects\UnitTestProject\UnitTestProject\bin\Debug\netcoreapp1.1\UnitTestProject.dll
+c:\users\paul\documents\visual studio 2017\Projects\UnitTestProject\UnitTestProject\bin\Debug\netcoreapp1.1\UnitTestProject.pdb
+c:\users\paul\documents\visual studio 2017\Projects\UnitTestProject\UnitTestProject\obj\Debug\netcoreapp1.1\UnitTestProject.AssemblyInfo.cs
+c:\users\paul\documents\visual studio 2017\Projects\UnitTestProject\UnitTestProject\obj\Debug\netcoreapp1.1\UnitTestProject.dll
+c:\users\paul\documents\visual studio 2017\Projects\UnitTestProject\UnitTestProject\obj\Debug\netcoreapp1.1\UnitTestProject.pdb

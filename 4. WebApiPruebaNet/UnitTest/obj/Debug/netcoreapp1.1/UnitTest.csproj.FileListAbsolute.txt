@@ -1,0 +1,12 @@
+C:\Users\PAUL\Documents\Visual Studio 2017\Projects\WebApiPruebaNet\UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\PAUL\Documents\Visual Studio 2017\Projects\WebApiPruebaNet\UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\PAUL\Documents\Visual Studio 2017\Projects\WebApiPruebaNet\UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\PAUL\Documents\Visual Studio 2017\Projects\WebApiPruebaNet\UnitTest\bin\Debug\netcoreapp1.1\UnitTest.deps.json
+C:\Users\PAUL\Documents\Visual Studio 2017\Projects\WebApiPruebaNet\UnitTest\bin\Debug\netcoreapp1.1\UnitTest.runtimeconfig.json
+C:\Users\PAUL\Documents\Visual Studio 2017\Projects\WebApiPruebaNet\UnitTest\bin\Debug\netcoreapp1.1\UnitTest.runtimeconfig.dev.json
+C:\Users\PAUL\Documents\Visual Studio 2017\Projects\WebApiPruebaNet\UnitTest\bin\Debug\netcoreapp1.1\UnitTest.dll
+C:\Users\PAUL\Documents\Visual Studio 2017\Projects\WebApiPruebaNet\UnitTest\bin\Debug\netcoreapp1.1\UnitTest.pdb
+C:\Users\PAUL\Documents\Visual Studio 2017\Projects\WebApiPruebaNet\UnitTest\obj\Debug\netcoreapp1.1\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\PAUL\Documents\Visual Studio 2017\Projects\WebApiPruebaNet\UnitTest\obj\Debug\netcoreapp1.1\UnitTest.AssemblyInfo.cs
+C:\Users\PAUL\Documents\Visual Studio 2017\Projects\WebApiPruebaNet\UnitTest\obj\Debug\netcoreapp1.1\UnitTest.dll
+C:\Users\PAUL\Documents\Visual Studio 2017\Projects\WebApiPruebaNet\UnitTest\obj\Debug\netcoreapp1.1\UnitTest.pdb

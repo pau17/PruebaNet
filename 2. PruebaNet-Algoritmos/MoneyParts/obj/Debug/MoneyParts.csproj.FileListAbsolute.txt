@@ -1,0 +1,6 @@
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\MoneyParts\bin\Debug\MoneyParts.exe.config
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\MoneyParts\bin\Debug\MoneyParts.exe
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\MoneyParts\bin\Debug\MoneyParts.pdb
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\MoneyParts\obj\Debug\MoneyParts.exe
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\MoneyParts\obj\Debug\MoneyParts.pdb
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\MoneyParts\obj\Debug\MoneyParts.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\OrderRange\bin\Debug\OrderRange.exe.config
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\OrderRange\bin\Debug\OrderRange.exe
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\OrderRange\bin\Debug\OrderRange.pdb
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\OrderRange\obj\Debug\OrderRange.exe
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\OrderRange\obj\Debug\OrderRange.pdb
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\OrderRange\obj\Debug\OrderRange.csprojResolveAssemblyReference.cache
