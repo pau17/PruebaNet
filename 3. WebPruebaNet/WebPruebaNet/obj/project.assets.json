@@ -10994,10 +10994,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PAUL\\Documents\\Visual Studio 2017\\Projects\\3. WebPruebaNet\\WebPruebaNet\\WebPruebaNet.csproj",
+      "projectUniqueName": "E:\\PruebaNet\\PruebaNet\\3. WebPruebaNet\\WebPruebaNet\\WebPruebaNet.csproj",
       "projectName": "WebPruebaNet",
-      "projectPath": "C:\\Users\\PAUL\\Documents\\Visual Studio 2017\\Projects\\3. WebPruebaNet\\WebPruebaNet\\WebPruebaNet.csproj",
-      "outputPath": "C:\\Users\\PAUL\\Documents\\Visual Studio 2017\\Projects\\3. WebPruebaNet\\WebPruebaNet\\obj\\",
+      "projectPath": "E:\\PruebaNet\\PruebaNet\\3. WebPruebaNet\\WebPruebaNet\\WebPruebaNet.csproj",
+      "outputPath": "E:\\PruebaNet\\PruebaNet\\3. WebPruebaNet\\WebPruebaNet\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"
